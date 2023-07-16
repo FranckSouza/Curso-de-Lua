@@ -4,7 +4,7 @@ Curso : Linguagem Lua
 Dev: Franck Souza
 Prof: Elinaldo santos YTB
 Data: 16 /07 / 2023
-Fonte: https://www.youtube.com/@elinaldosantosdegoesjunior2987  |   https://www.lua.org/
+Fonte: https://www.youtube.com/@elinaldosantosdegoesjunior2987  |   https://www.lua.org/  |     https://www.lua.org/manual/5.1/manual.html
 ]]
 
 
